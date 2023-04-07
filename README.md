@@ -5,7 +5,7 @@
 
 **개발 툴** : Spring, sql developer
 
-**사용 언어** : Java(JDK 1.8), SQL, JSP & Servlet, HTML/CSS, JavaScript
+**사용 언어** : Java(JDK 1.8), SQL, JSP & Servlet, HTML/CSS, JavaScript, Jquery, Ajax
 
 # 주제
 **Imuseum 박물관 웹 페이지 구현**
